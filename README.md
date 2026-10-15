@@ -55,7 +55,7 @@ ab_final/
 Addresses in the intermediate regional files are then joined by co-ordinates to constituency polygons using the sf package.
 
 
-# Notes
+## Notes
 
 - 0.01% of addresses cannot be joined to a region or constituency. This is either due to NULL co-ordinates, NULL local authority codes, or incorrect legacy local authority codes. 
 - Addresses that cannot be assigned a region are removed before processing.
