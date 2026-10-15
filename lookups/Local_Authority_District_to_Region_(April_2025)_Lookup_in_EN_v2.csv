@@ -1,0 +1,297 @@
+﻿LAD25CD,LAD25NM,RGN25CD,RGN25NM,ObjectId
+E07000098,Hertsmere,E12000006,East of England,1
+E07000099,North Hertfordshire,E12000006,East of England,2
+E07000102,Three Rivers,E12000006,East of England,3
+E07000103,Watford,E12000006,East of England,4
+E07000105,Ashford,E12000008,South East,5
+E07000106,Canterbury,E12000008,South East,6
+E07000107,Dartford,E12000008,South East,7
+E07000108,Dover,E12000008,South East,8
+E07000109,Gravesham,E12000008,South East,9
+E07000110,Maidstone,E12000008,South East,10
+E07000111,Sevenoaks,E12000008,South East,11
+E07000112,Folkestone and Hythe,E12000008,South East,12
+E07000113,Swale,E12000008,South East,13
+E07000114,Thanet,E12000008,South East,14
+E07000115,Tonbridge and Malling,E12000008,South East,15
+E07000116,Tunbridge Wells,E12000008,South East,16
+E07000117,Burnley,E12000002,North West,17
+E07000118,Chorley,E12000002,North West,18
+E07000119,Fylde,E12000002,North West,19
+E07000120,Hyndburn,E12000002,North West,20
+E07000121,Lancaster,E12000002,North West,21
+E07000122,Pendle,E12000002,North West,22
+E07000123,Preston,E12000002,North West,23
+E07000124,Ribble Valley,E12000002,North West,24
+E07000125,Rossendale,E12000002,North West,25
+E07000126,South Ribble,E12000002,North West,26
+E07000127,West Lancashire,E12000002,North West,27
+E07000128,Wyre,E12000002,North West,28
+E07000129,Blaby,E12000004,East Midlands,29
+E07000130,Charnwood,E12000004,East Midlands,30
+E07000131,Harborough,E12000004,East Midlands,31
+E07000132,Hinckley and Bosworth,E12000004,East Midlands,32
+E07000133,Melton,E12000004,East Midlands,33
+E07000134,North West Leicestershire,E12000004,East Midlands,34
+E07000135,Oadby and Wigston,E12000004,East Midlands,35
+E07000136,Boston,E12000004,East Midlands,36
+E07000137,East Lindsey,E12000004,East Midlands,37
+E07000138,Lincoln,E12000004,East Midlands,38
+E07000139,North Kesteven,E12000004,East Midlands,39
+E07000140,South Holland,E12000004,East Midlands,40
+E07000141,South Kesteven,E12000004,East Midlands,41
+E07000142,West Lindsey,E12000004,East Midlands,42
+E07000143,Breckland,E12000006,East of England,43
+E07000144,Broadland,E12000006,East of England,44
+E07000145,Great Yarmouth,E12000006,East of England,45
+E07000146,King's Lynn and West Norfolk,E12000006,East of England,46
+E07000147,North Norfolk,E12000006,East of England,47
+E07000148,Norwich,E12000006,East of England,48
+E07000149,South Norfolk,E12000006,East of England,49
+E07000170,Ashfield,E12000004,East Midlands,50
+E07000171,Bassetlaw,E12000004,East Midlands,51
+E07000172,Broxtowe,E12000004,East Midlands,52
+E07000173,Gedling,E12000004,East Midlands,53
+E07000174,Mansfield,E12000004,East Midlands,54
+E07000175,Newark and Sherwood,E12000004,East Midlands,55
+E07000176,Rushcliffe,E12000004,East Midlands,56
+E07000177,Cherwell,E12000008,South East,57
+E07000178,Oxford,E12000008,South East,58
+E07000179,South Oxfordshire,E12000008,South East,59
+E07000180,Vale of White Horse,E12000008,South East,60
+E06000064,Westmorland and Furness,E12000002,North West,61
+E06000065,North Yorkshire,E12000003,Yorkshire and The Humber,62
+E06000066,Somerset,E12000009,South West,63
+E07000008,Cambridge,E12000006,East of England,64
+E07000009,East Cambridgeshire,E12000006,East of England,65
+E07000010,Fenland,E12000006,East of England,66
+E07000011,Huntingdonshire,E12000006,East of England,67
+E07000012,South Cambridgeshire,E12000006,East of England,68
+E07000032,Amber Valley,E12000004,East Midlands,69
+E07000033,Bolsover,E12000004,East Midlands,70
+E07000034,Chesterfield,E12000004,East Midlands,71
+E07000035,Derbyshire Dales,E12000004,East Midlands,72
+E07000036,Erewash,E12000004,East Midlands,73
+E07000037,High Peak,E12000004,East Midlands,74
+E07000038,North East Derbyshire,E12000004,East Midlands,75
+E07000039,South Derbyshire,E12000004,East Midlands,76
+E07000040,East Devon,E12000009,South West,77
+E07000041,Exeter,E12000009,South West,78
+E07000042,Mid Devon,E12000009,South West,79
+E07000043,North Devon,E12000009,South West,80
+E07000044,South Hams,E12000009,South West,81
+E07000045,Teignbridge,E12000009,South West,82
+E07000046,Torridge,E12000009,South West,83
+E07000047,West Devon,E12000009,South West,84
+E07000061,Eastbourne,E12000008,South East,85
+E07000062,Hastings,E12000008,South East,86
+E07000063,Lewes,E12000008,South East,87
+E07000064,Rother,E12000008,South East,88
+E07000065,Wealden,E12000008,South East,89
+E07000066,Basildon,E12000006,East of England,90
+E07000067,Braintree,E12000006,East of England,91
+E07000068,Brentwood,E12000006,East of England,92
+E07000069,Castle Point,E12000006,East of England,93
+E07000070,Chelmsford,E12000006,East of England,94
+E07000071,Colchester,E12000006,East of England,95
+E07000072,Epping Forest,E12000006,East of England,96
+E07000073,Harlow,E12000006,East of England,97
+E07000074,Maldon,E12000006,East of England,98
+E07000075,Rochford,E12000006,East of England,99
+E07000076,Tendring,E12000006,East of England,100
+E07000077,Uttlesford,E12000006,East of England,101
+E07000078,Cheltenham,E12000009,South West,102
+E07000079,Cotswold,E12000009,South West,103
+E07000080,Forest of Dean,E12000009,South West,104
+E07000081,Gloucester,E12000009,South West,105
+E07000082,Stroud,E12000009,South West,106
+E07000083,Tewkesbury,E12000009,South West,107
+E07000084,Basingstoke and Deane,E12000008,South East,108
+E07000085,East Hampshire,E12000008,South East,109
+E07000086,Eastleigh,E12000008,South East,110
+E07000087,Fareham,E12000008,South East,111
+E07000088,Gosport,E12000008,South East,112
+E07000089,Hart,E12000008,South East,113
+E07000090,Havant,E12000008,South East,114
+E07000091,New Forest,E12000008,South East,115
+E07000092,Rushmoor,E12000008,South East,116
+E07000093,Test Valley,E12000008,South East,117
+E07000094,Winchester,E12000008,South East,118
+E07000095,Broxbourne,E12000006,East of England,119
+E07000096,Dacorum,E12000006,East of England,120
+E07000181,West Oxfordshire,E12000008,South East,121
+E07000192,Cannock Chase,E12000005,West Midlands,122
+E07000193,East Staffordshire,E12000005,West Midlands,123
+E07000194,Lichfield,E12000005,West Midlands,124
+E07000195,Newcastle-under-Lyme,E12000005,West Midlands,125
+E07000196,South Staffordshire,E12000005,West Midlands,126
+E07000197,Stafford,E12000005,West Midlands,127
+E07000198,Staffordshire Moorlands,E12000005,West Midlands,128
+E07000199,Tamworth,E12000005,West Midlands,129
+E07000200,Babergh,E12000006,East of England,130
+E07000202,Ipswich,E12000006,East of England,131
+E07000203,Mid Suffolk,E12000006,East of England,132
+E07000207,Elmbridge,E12000008,South East,133
+E07000208,Epsom and Ewell,E12000008,South East,134
+E07000209,Guildford,E12000008,South East,135
+E07000210,Mole Valley,E12000008,South East,136
+E07000211,Reigate and Banstead,E12000008,South East,137
+E07000212,Runnymede,E12000008,South East,138
+E07000213,Spelthorne,E12000008,South East,139
+E07000214,Surrey Heath,E12000008,South East,140
+E07000215,Tandridge,E12000008,South East,141
+E07000216,Waverley,E12000008,South East,142
+E07000217,Woking,E12000008,South East,143
+E07000218,North Warwickshire,E12000005,West Midlands,144
+E07000219,Nuneaton and Bedworth,E12000005,West Midlands,145
+E07000220,Rugby,E12000005,West Midlands,146
+E07000221,Stratford-on-Avon,E12000005,West Midlands,147
+E07000222,Warwick,E12000005,West Midlands,148
+E07000223,Adur,E12000008,South East,149
+E07000224,Arun,E12000008,South East,150
+E07000225,Chichester,E12000008,South East,151
+E07000226,Crawley,E12000008,South East,152
+E07000227,Horsham,E12000008,South East,153
+E07000228,Mid Sussex,E12000008,South East,154
+E07000229,Worthing,E12000008,South East,155
+E07000234,Bromsgrove,E12000005,West Midlands,156
+E07000235,Malvern Hills,E12000005,West Midlands,157
+E07000236,Redditch,E12000005,West Midlands,158
+E07000237,Worcester,E12000005,West Midlands,159
+E07000238,Wychavon,E12000005,West Midlands,160
+E07000239,Wyre Forest,E12000005,West Midlands,161
+E07000240,St Albans,E12000006,East of England,162
+E07000241,Welwyn Hatfield,E12000006,East of England,163
+E07000242,East Hertfordshire,E12000006,East of England,164
+E07000243,Stevenage,E12000006,East of England,165
+E07000244,East Suffolk,E12000006,East of England,166
+E07000245,West Suffolk,E12000006,East of England,167
+E08000001,Bolton,E12000002,North West,168
+E08000002,Bury,E12000002,North West,169
+E08000003,Manchester,E12000002,North West,170
+E08000004,Oldham,E12000002,North West,171
+E08000005,Rochdale,E12000002,North West,172
+E08000006,Salford,E12000002,North West,173
+E08000007,Stockport,E12000002,North West,174
+E08000008,Tameside,E12000002,North West,175
+E08000009,Trafford,E12000002,North West,176
+E08000010,Wigan,E12000002,North West,177
+E08000011,Knowsley,E12000002,North West,178
+E08000012,Liverpool,E12000002,North West,179
+E08000013,St. Helens,E12000002,North West,180
+E08000014,Sefton,E12000002,North West,181
+E08000015,Wirral,E12000002,North West,182
+E08000017,Doncaster,E12000003,Yorkshire and The Humber,183
+E08000018,Rotherham,E12000003,Yorkshire and The Humber,184
+E08000021,Newcastle upon Tyne,E12000001,North East,185
+E08000022,North Tyneside,E12000001,North East,186
+E08000023,South Tyneside,E12000001,North East,187
+E08000024,Sunderland,E12000001,North East,188
+E08000025,Birmingham,E12000005,West Midlands,189
+E08000026,Coventry,E12000005,West Midlands,190
+E08000027,Dudley,E12000005,West Midlands,191
+E08000028,Sandwell,E12000005,West Midlands,192
+E08000029,Solihull,E12000005,West Midlands,193
+E08000030,Walsall,E12000005,West Midlands,194
+E08000031,Wolverhampton,E12000005,West Midlands,195
+E08000032,Bradford,E12000003,Yorkshire and The Humber,196
+E08000033,Calderdale,E12000003,Yorkshire and The Humber,197
+E08000034,Kirklees,E12000003,Yorkshire and The Humber,198
+E08000035,Leeds,E12000003,Yorkshire and The Humber,199
+E08000036,Wakefield,E12000003,Yorkshire and The Humber,200
+E08000037,Gateshead,E12000001,North East,201
+E08000038,Barnsley,E12000003,Yorkshire and The Humber,202
+E08000039,Sheffield,E12000003,Yorkshire and The Humber,203
+E09000001,City of London,E12000007,London,204
+E09000002,Barking and Dagenham,E12000007,London,205
+E09000003,Barnet,E12000007,London,206
+E09000004,Bexley,E12000007,London,207
+E09000005,Brent,E12000007,London,208
+E09000006,Bromley,E12000007,London,209
+E09000007,Camden,E12000007,London,210
+E09000008,Croydon,E12000007,London,211
+E09000009,Ealing,E12000007,London,212
+E09000010,Enfield,E12000007,London,213
+E09000011,Greenwich,E12000007,London,214
+E09000012,Hackney,E12000007,London,215
+E09000013,Hammersmith and Fulham,E12000007,London,216
+E09000014,Haringey,E12000007,London,217
+E09000015,Harrow,E12000007,London,218
+E09000016,Havering,E12000007,London,219
+E09000017,Hillingdon,E12000007,London,220
+E09000018,Hounslow,E12000007,London,221
+E09000019,Islington,E12000007,London,222
+E09000020,Kensington and Chelsea,E12000007,London,223
+E09000021,Kingston upon Thames,E12000007,London,224
+E09000022,Lambeth,E12000007,London,225
+E09000023,Lewisham,E12000007,London,226
+E09000024,Merton,E12000007,London,227
+E09000025,Newham,E12000007,London,228
+E09000026,Redbridge,E12000007,London,229
+E09000027,Richmond upon Thames,E12000007,London,230
+E09000028,Southwark,E12000007,London,231
+E09000029,Sutton,E12000007,London,232
+E09000030,Tower Hamlets,E12000007,London,233
+E09000031,Waltham Forest,E12000007,London,234
+E09000032,Wandsworth,E12000007,London,235
+E09000033,Westminster,E12000007,London,236
+E06000001,Hartlepool,E12000001,North East,237
+E06000002,Middlesbrough,E12000001,North East,238
+E06000003,Redcar and Cleveland,E12000001,North East,239
+E06000004,Stockton-on-Tees,E12000001,North East,240
+E06000005,Darlington,E12000001,North East,241
+E06000006,Halton,E12000002,North West,242
+E06000007,Warrington,E12000002,North West,243
+E06000008,Blackburn with Darwen,E12000002,North West,244
+E06000009,Blackpool,E12000002,North West,245
+E06000010,"Kingston upon Hull, City of",E12000003,Yorkshire and The Humber,246
+E06000011,East Riding of Yorkshire,E12000003,Yorkshire and The Humber,247
+E06000012,North East Lincolnshire,E12000003,Yorkshire and The Humber,248
+E06000013,North Lincolnshire,E12000003,Yorkshire and The Humber,249
+E06000014,York,E12000003,Yorkshire and The Humber,250
+E06000015,Derby,E12000004,East Midlands,251
+E06000016,Leicester,E12000004,East Midlands,252
+E06000017,Rutland,E12000004,East Midlands,253
+E06000018,Nottingham,E12000004,East Midlands,254
+E06000019,"Herefordshire, County of",E12000005,West Midlands,255
+E06000020,Telford and Wrekin,E12000005,West Midlands,256
+E06000021,Stoke-on-Trent,E12000005,West Midlands,257
+E06000022,Bath and North East Somerset,E12000009,South West,258
+E06000023,"Bristol, City of",E12000009,South West,259
+E06000024,North Somerset,E12000009,South West,260
+E06000025,South Gloucestershire,E12000009,South West,261
+E06000026,Plymouth,E12000009,South West,262
+E06000027,Torbay,E12000009,South West,263
+E06000030,Swindon,E12000009,South West,264
+E06000031,Peterborough,E12000006,East of England,265
+E06000032,Luton,E12000006,East of England,266
+E06000033,Southend-on-Sea,E12000006,East of England,267
+E06000034,Thurrock,E12000006,East of England,268
+E06000035,Medway,E12000008,South East,269
+E06000036,Bracknell Forest,E12000008,South East,270
+E06000037,West Berkshire,E12000008,South East,271
+E06000038,Reading,E12000008,South East,272
+E06000039,Slough,E12000008,South East,273
+E06000040,Windsor and Maidenhead,E12000008,South East,274
+E06000041,Wokingham,E12000008,South East,275
+E06000042,Milton Keynes,E12000008,South East,276
+E06000043,Brighton and Hove,E12000008,South East,277
+E06000044,Portsmouth,E12000008,South East,278
+E06000045,Southampton,E12000008,South East,279
+E06000046,Isle of Wight,E12000008,South East,280
+E06000047,County Durham,E12000001,North East,281
+E06000049,Cheshire East,E12000002,North West,282
+E06000050,Cheshire West and Chester,E12000002,North West,283
+E06000051,Shropshire,E12000005,West Midlands,284
+E06000052,Cornwall,E12000009,South West,285
+E06000053,Isles of Scilly,E12000009,South West,286
+E06000054,Wiltshire,E12000009,South West,287
+E06000055,Bedford,E12000006,East of England,288
+E06000056,Central Bedfordshire,E12000006,East of England,289
+E06000057,Northumberland,E12000001,North East,290
+E06000058,"Bournemouth, Christchurch and Poole",E12000009,South West,291
+E06000059,Dorset,E12000009,South West,292
+E06000060,Buckinghamshire,E12000008,South East,293
+E06000061,North Northamptonshire,E12000004,East Midlands,294
+E06000062,West Northamptonshire,E12000004,East Midlands,295
+E06000063,Cumberland,E12000002,North West,296
